@@ -101,7 +101,7 @@ jobs:
               ROOTFS_SIZE=1024
               ;;
             2G)
-              ROOTFS_SIZE=2048
+              ROOTFS_SIZE=2014
               ;;
             3G)
               ROOTFS_SIZE=3072
